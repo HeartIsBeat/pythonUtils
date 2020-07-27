@@ -1,5 +1,4 @@
 #coding=utf-8
-__author__ = 'wengxiumei'
 
 import requests
 from bs4 import BeautifulSoup
